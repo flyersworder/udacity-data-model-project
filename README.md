@@ -2,7 +2,7 @@
 
 This repository sets for the codes that setup the Song Play Database. It is a database that includes multiple tables such as user, song, artist, song, and song play. It allows us to query into these tables and derive unique insights for this online song playing platform. An Entity-Relationship Diagram (ERN) that illustrates the relationships between the fact and the dimension tables is presented below:
 
-![ERN diagram](/ERN.png)
+![ERN diagram](https://github.com/flyersworder/udacity-data-model-project/blob/master/ERD.png)
 
 As for the codes,
 
